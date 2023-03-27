@@ -22,6 +22,6 @@ Currently it solves for the following variables:
 - [Project poster](https://github.com/linomp/heat-exchanger-design-tool/blob/main/docs/Poster.pdf)
 
 ## Credits
-Project created by Farhana Chowdhury, Alejandro Espinel, Maria Jose Jacome Moreira & Lino Mediavilla.
-
 Final project of the Heat Transfer course at Universidad San Francisco de Quito (USFQ), Spring 2019.
+
+Created by Farhana Chowdhury, Alejandro Espinel, Maria Jose Jacome Moreira & Lino Mediavilla.
