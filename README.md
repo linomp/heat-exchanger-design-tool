@@ -14,7 +14,7 @@ Currently it solves for the following variables:
 - baffle spacing
 ```
 
-<img src="https://user-images.githubusercontent.com/40581019/227970592-27dbcee5-0836-4382-be82-1b804b9957d4.png" width="40%"/>
+<img src="https://user-images.githubusercontent.com/40581019/227975550-69c1de6f-0500-4b2a-9392-2e630ce69005.png" width="40%"/>
 
 ## Resources
 - [Matlab source code](https://github.com/linomp/heat-exchanger-design-tool/tree/main/src)
