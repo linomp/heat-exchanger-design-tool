@@ -1,5 +1,6 @@
 # heat-exchanger-design-tool
 
+## About 
 This is a Matlab tool to aid in the design of shell & tube heat exchangers, with built-in optimization functionality. 
   
 It uses a genetic algorithm to find the heat exchanger dimensions that minimize the annual cost, while meeting the required heat transfer rate.
